@@ -1,2 +1,4 @@
-# Desafio-Dio-Git-Github
-Desafio da DIO de criar repositório para o curso Git e Github
+# Repositório do Desafio de projeto sobre Git e Github da DIO
+
+## Links Úteis
+[Sintaxe básica Markdown] https://www.markdownguide.org/
